@@ -1,0 +1,11 @@
+{
+  "train_samples": 40,
+  "validation_samples": 10,
+  "epochs": 719,
+  "parameter_count": 105,
+  "mac_per_sample": 88,
+  "train_delta_duty_mae": 8.864032861310989e-05,
+  "validation_delta_duty_mae": 0.00023180674179457128,
+  "all_delta_duty_mae": 0.00011727360833901912,
+  "all_delta_duty_max_error": 0.00046790018677711487
+}
